@@ -33,6 +33,5 @@ Here are some ideas to get you started:
 
 ![Favorite Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yerson001&langs_count=10&hide_border=true&layout=compact&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerson001)](https://github.com/anuraghazra/github-readme-stats)
 
 
