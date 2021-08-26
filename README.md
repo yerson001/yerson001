@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 
 
 
-![Yerson001 github stats](https://github-readme-stats.vercel.app/api?username=vaporjawn&show_icons=true&hide_border=true&theme=radical)
+![Yerson001 github stats](https://github-readme-stats.vercel.app/api?username=yerson001&show_icons=true&hide_border=true&theme=radical)
 ![Favorite Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaporjawn&langs_count=10&hide_border=true&layout=compact&theme=radical)
-
-⭐️ From [Vaporjawn](https://github.com/vaporjawn)
-### [What is 20XX?](https://gist.github.com/Vaporjawn/b5b21498b3c73b371ec13d673fb53497#file-20xx)
-### [What is Vaporjawn](https://vaporjawn.dev/Vaporjawn.html)
 
