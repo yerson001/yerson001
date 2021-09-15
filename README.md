@@ -38,39 +38,39 @@ Here are some ideas to get you started:
 
 ## Proyectos:
 
-1. Algoritmos de Búsqueda de caminos (A*, BFS, DFS) - 03/04/2021.\
+1. ------------slam-------------
    └» [Plane-SLAM](https://github.com/yerson001/Plane-based-SLAM)
-2. Juego de Damas (Humano vs Bot) - 21/04/2021.\
+2. ------------slam-------------
    └» [IA-slam](https://github.com/yerson001/AGV_ITESM_2021)
-3. Algoritmos Genéticos (Maximizador) - 18/04/2021.\
+3. ------------slam-------------
    └» [Book](https://github.com/yerson001/slambook)
-4. Perceptrón simple y multicapa para reconocer caracteres - 29/05/2021.\
+4. ------------slam-------------
    └» [DBow3](https://github.com/yerson001/DBow3)
-5. Perceptrón simple y multicapa para reconocer caracteres - 29/05/2021.\
+5. ------------slam-------------
    └» [EKF](https://github.com/yerson001/SLAM-Extended-Kalman-Filter)
    └» [EKF](https://github.com/yerson001/ekf-slam)
-6. Perceptrón simple y multicapa para reconocer caracteres - 29/05/2021.\
+6. ------------slam-------------
    └» [Landmark](https://github.com/yerson001/landmark-slam)
-7. Perceptrón simple y multicapa para reconocer caracteres - 29/05/2021.\
+7. ------------slam-------------
    └» [g2o](https://github.com/yerson001/g2o_ba_example)
-8. Perceptrón simple y multicapa para reconocer caracteres - 29/05/2021.\
+8. ------------slam-------------
    └» [RGBD](https://github.com/yerson001/rgbd-slam-tutorial-gx)
-9. Perceptrón simple y multicapa para reconocer caracteres - 29/05/2021.\
+9. ------------slam-------------
    └» [ORB](https://github.com/yerson001/ORBExtractor)
-10. Perceptrón simple y multicapa para reconocer caracteres - 29/05/2021.\
+10. ------------slam-------------
    └» [Planar](https://github.com/yerson001/PlanarReconstruction)
-11. Perceptrón simple y multicapa para reconocer caracteres - 29/05/2021.\
+11. ------------slam-------------
    └» [Mono](https://github.com/yerson001/MonoSLAM-1)
-12. Perceptrón simple y multicapa para reconocer caracteres - 29/05/2021.\
+12. ------------slam-------------
    └» [Deep-Lear..](https://github.com/yerson001/Deep-Learning)
-13. Perceptrón simple y multicapa para reconocer caracteres - 29/05/2021.\
+13. ------------slam-------------
    └» [Graph](https://github.com/yerson001/graph-slam)
-14. Perceptrón simple y multicapa para reconocer caracteres - 29/05/2021.\
+14. P------------slam-------------
    └» [slam-book2](https://github.com/yerson001/slambook-en)
-15. Perceptrón simple y multicapa para reconocer caracteres - 29/05/2021.\
+15. ------------slam-------------
    └» [python-R](https://github.com/yerson001/PythonRobotics)
-16. Perceptrón simple y multicapa para reconocer caracteres - 29/05/2021.\
+16. ------------slam-------------
    └» [slam-book2](https://github.com/yerson001/slambook-en)
-17. Perceptrón simple y multicapa para reconocer caracteres - 29/05/2021.\
+17. ------------slam-------------
    └» [cv](https://github.com/yerson001/ComputerVision)
    
