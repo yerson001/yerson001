@@ -38,39 +38,39 @@ Here are some ideas to get you started:
 
 ## Proyectos:
 
-1. ------------slam-------------
+1.
    └» [Plane-SLAM](https://github.com/yerson001/Plane-based-SLAM)
-2. ------------slam-------------
+2.
    └» [IA-slam](https://github.com/yerson001/AGV_ITESM_2021)
-3. ------------slam-------------
+3.
    └» [Book](https://github.com/yerson001/slambook)
-4. ------------slam-------------
+4.
    └» [DBow3](https://github.com/yerson001/DBow3)
-5. ------------slam-------------
+5.
    └» [EKF](https://github.com/yerson001/SLAM-Extended-Kalman-Filter)
    └» [EKF](https://github.com/yerson001/ekf-slam)
-6. ------------slam-------------
+6.
    └» [Landmark](https://github.com/yerson001/landmark-slam)
-7. ------------slam-------------
+7.
    └» [g2o](https://github.com/yerson001/g2o_ba_example)
-8. ------------slam-------------
+8.
    └» [RGBD](https://github.com/yerson001/rgbd-slam-tutorial-gx)
-9. ------------slam-------------
+9.
    └» [ORB](https://github.com/yerson001/ORBExtractor)
-10. ------------slam-------------
+10.
    └» [Planar](https://github.com/yerson001/PlanarReconstruction)
-11. ------------slam-------------
+11.
    └» [Mono](https://github.com/yerson001/MonoSLAM-1)
-12. ------------slam-------------
+12.
    └» [Deep-Lear..](https://github.com/yerson001/Deep-Learning)
-13. ------------slam-------------
+13.
    └» [Graph](https://github.com/yerson001/graph-slam)
-14. P------------slam-------------
+14.
    └» [slam-book2](https://github.com/yerson001/slambook-en)
-15. ------------slam-------------
+15.
    └» [python-R](https://github.com/yerson001/PythonRobotics)
-16. ------------slam-------------
+16.
    └» [slam-book2](https://github.com/yerson001/slambook-en)
-17. ------------slam-------------
+17.
    └» [cv](https://github.com/yerson001/ComputerVision)
    
