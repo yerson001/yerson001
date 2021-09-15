@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [//]: # (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)
 
 
-## Proyectos:
+## INV:
 
 1.
    └» [Plane-SLAM](https://github.com/yerson001/Plane-based-SLAM)
