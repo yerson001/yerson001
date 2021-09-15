@@ -55,22 +55,22 @@ Here are some ideas to get you started:
    └» [g2o](https://github.com/yerson001/g2o_ba_example)
 8.
    └» [RGBD](https://github.com/yerson001/rgbd-slam-tutorial-gx)
-9.
+9.   
    └» [ORB](https://github.com/yerson001/ORBExtractor)
-10.
-   └» [Planar](https://github.com/yerson001/PlanarReconstruction)
+10. 
+    └» [Planar](https://github.com/yerson001/PlanarReconstruction)
 11.
-   └» [Mono](https://github.com/yerson001/MonoSLAM-1)
+    └» [Mono](https://github.com/yerson001/MonoSLAM-1)
 12.
-   └» [Deep-Lear..](https://github.com/yerson001/Deep-Learning)
+    └» [Deep-Lear..](https://github.com/yerson001/Deep-Learning)
 13.
-   └» [Graph](https://github.com/yerson001/graph-slam)
+    └» [Graph](https://github.com/yerson001/graph-slam)
 14.
-   └» [slam-book2](https://github.com/yerson001/slambook-en)
+    └» [slam-book2](https://github.com/yerson001/slambook-en)
 15.
-   └» [python-R](https://github.com/yerson001/PythonRobotics)
+    └» [python-R](https://github.com/yerson001/PythonRobotics)
 16.
-   └» [slam-book2](https://github.com/yerson001/slambook-en)
+    └» [slam-book2](https://github.com/yerson001/slambook-en)
 17.
-   └» [cv](https://github.com/yerson001/ComputerVision)
+    └» [cv](https://github.com/yerson001/ComputerVision)
    
