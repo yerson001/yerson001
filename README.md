@@ -160,12 +160,13 @@ Here are some ideas to get you started:
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 <!-- retro visitor counter -->  
+<!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/yerson001/count.svg" />  
+  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
 </p>
   <br>
   <p align="center">
-  <img src="https://github.com/yerson001/yerson001/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/yerson001/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <!-- YT LIST START -->
