@@ -170,16 +170,16 @@ Here are some ideas to get you started:
 </p>
 
 <!-- YT LIST START -->
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/3a770a0a0d3cfe8c069d3fb907ed91dd6b6cd86b/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=Ep2CUO_f26M)
-        **[Data Fetching with React Suspense and Recoil (Part 2)](https://www.youtube.com/watch?v=Ep2CUO_f26M)**
+[<img src="https://github.com/yerson001/yerson001/blob/main/contra.PNG" align="left" width="200" />](https://www.youtube.com/watch?v=Ep2CUO_f26M)
+        **[CONTRA game c++](https://www.youtube.com/watch?v=Ep2CUO_f26M)**
         <br /> *26 Jul 2020*
         
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/3a770a0a0d3cfe8c069d3fb907ed91dd6b6cd86b/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=0GxqRe_y7Fw)
-        **[Data Fetching with React Suspense and Recoil (Part 2)](https://www.youtube.com/watch?v=0GxqRe_y7Fw)**
+[<img src="https://github.com/yerson001/yerson001/blob/main/orb.PNG" align="left" width="200" />](https://www.youtube.com/watch?v=0GxqRe_y7Fw)
+        **[ORB-SLAM2 dataset kitty](https://www.youtube.com/watch?v=0GxqRe_y7Fw)**
         <br /> *26 Jul 2020*
 
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/3a770a0a0d3cfe8c069d3fb907ed91dd6b6cd86b/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=9ot4x5P7a4o)
-        **[Data Fetching with React Suspense and Recoil (Part 2)](https://www.youtube.com/watch?v=9ot4x5P7a4o)**
+[<img src="https://github.com/yerson001/yerson001/blob/main/cubo.PNG" align="left" width="200" />](https://www.youtube.com/watch?v=9ot4x5P7a4o)
+        **[CUBO-rubick-opengl-c++](https://www.youtube.com/watch?v=9ot4x5P7a4o)**
         <br /> *26 Jul 2020*
         
         
