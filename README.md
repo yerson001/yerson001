@@ -170,7 +170,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- YT LIST START -->
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/3a770a0a0d3cfe8c069d3fb907ed91dd6b6cd86b/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=Ov2x6NqxNqY)
+[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/3a770a0a0d3cfe8c069d3fb907ed91dd6b6cd86b/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=Ep2CUO_f26M)
         **[Data Fetching with React Suspense and Recoil (Part 2)](https://www.youtube.com/watch?v=Ov2x6NqxNqY)**
         <br /> *26 Jul 2020*
 <img align="center" width="100%" height="0" />
